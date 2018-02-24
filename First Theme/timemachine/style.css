@@ -1,0 +1,46 @@
+/*
+Theme Name: Time Machine
+Theme URI: http://techmech.com
+Author : Shakil
+Author URI: http://shakiltech.com
+Tags: music, entertain
+Textdomain: time
+*/
+#author {
+    width: 380px!important;
+    border: 1px solid #c0c0c0;
+    margin: 0 0 0 25px;
+    padding: 5px 2px;
+    height: 16px;
+    background-color: #fff;
+	}
+	
+#email {
+    width: 380px!important;
+    border: 1px solid #c0c0c0;
+    margin: 0 0 0 25px;
+    padding: 5px 2px;
+    height: 16px;
+    background-color: #fff;
+	}
+
+#url {
+    width: 380px!important;
+    border: 1px solid #c0c0c0;
+    margin: 0 0 0 20px;
+    padding: 5px 2px;
+    height: 16px;
+    background-color: #fff;
+	}
+	
+#comment {
+    width: 380px!important;
+    border: 1px solid #c0c0c0;
+    margin: 0 0 0 20px;
+    padding: 5px 2px;
+    background-color: #fff;
+	}
+	
+.custom-logo {
+    padding-top: 40px;
+}
